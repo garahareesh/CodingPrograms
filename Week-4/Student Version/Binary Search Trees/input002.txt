@@ -1,0 +1,35 @@
+2
+11
+min
+max
+insert a 3
+get abc
+max
+min
+rank a
+insert b 10
+get a
+max
+min
+
+20
+get ramesh
+insert ramesh 10
+get ramesh
+max
+min
+insert rajesh 20
+max
+min
+get rajesh
+insert ranveer 30
+rank ramesh
+insert raju 40
+rank ramesh
+insert rakesh 50
+rank ramesh
+max
+insert raja 60
+rank ramesh
+insert rathod 70
+rank ramesh

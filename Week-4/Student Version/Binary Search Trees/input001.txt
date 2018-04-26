@@ -1,0 +1,20 @@
+1
+18
+insert dawn 90
+insert mike 8
+min
+get dave
+insert dave 6
+get dave
+max
+min
+insert beth 0
+insert cind 5
+min
+insert gina 99
+get cind
+insert pat 77
+max
+insert sue 100
+max
+rank robert

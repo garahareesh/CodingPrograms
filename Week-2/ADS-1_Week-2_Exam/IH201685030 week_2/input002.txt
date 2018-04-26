@@ -1,0 +1,10 @@
+5
+z, a, b, c, e, g, f, d, j, h
+
+aa, aab, abc, aaa, aba, bab, babb, bb, bab, bob, bba
+
+1, 10, 100, 1001, -1
+
+0001, 0010, 0011, 0100, 0101, 0110, 0111, 1000, 1001, 1010
+
+Integer, String, Character, Double, Float, Class, Object, Short, Long, BigDecimal, Math, BigInteger, signum, toCharArray, toString, DateFormat, SimpleDateFormat, int, float, double, char, float, short, Boolean, boolean, List, ArrayList, HashMap, HashTable, List, Set, Map, Iterator, Comparator, Comparable, compareTo, System, Scanner, Reader, Writer, BufferedReader, BufferedWriter, InputStream, OutputStream, BufferedInputStream, BufferedOutputStream, FileInputStream, FileOutputStream, Exception, IOException, ArrayIndexOutOfBoundsException, NullPointerException, StringIndexOutOfBoundsException, NumberFormatException, ConcurrentModificationException, Button, JButton, JCheckBox, JRadioButton, SocketInputStream, SocketOutputStream, FileReader, FileWriter, StringBuffer, StringBuilder, Vector, HashSet, LinkedHashSet, Stack, Queue, PriorityQueue, SocketException, JTextBox, JTextArea, PrintWriter, Arrays, Thread, Runnable, interface, class, public, private, protected, default, static, void main, ArrayStoreException, Connection, Statement, Resultset, PreparedStatement, CallableStatement, try, catch, final, finally, throws, throw, new, volatile, ByteArrayInputStream, ByteArrayOutputStream, IllegalClassFormatException, IllegalArgumentException, UnModifiableException, NoSuchElementException, MathContext, ServerSocket, Book, PageFormat, Paper, TextField, TextArea, RadioButton, BorderLayout, Canvas, Checkbox, CardLayout, Container, Component, Cursor, Dialog, DisplayMode, Event, EventQueue, EventHandler, Font, FontMetrics, Graphics, Graphics2D, GridBagLayout, GridLayout, Image, ImageCapabilites, Menu, MenuItem, MenuBar, MenuComponent, MouseEvent, PageAttributes, Panel, JPanel, PopMenu, PrintJob, Rectangle, Robot, ScrollBar, ScrollPane, SystemColor, Color, SystemTray, TextComponent, ToolKit, TrayIcon, Window, WindowEvent, MouseEvent, KeyboardEvent, Driver, DriverManager, ResultsetMetaData, SavePoint, SQLException, Types, TimeStamp

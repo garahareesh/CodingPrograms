@@ -1,0 +1,12 @@
+1
+10
+contains hello
+insert hello 5
+min
+max
+select 1
+deleteMin
+deleteMin
+deleteMax
+floor hello
+ceiling hello

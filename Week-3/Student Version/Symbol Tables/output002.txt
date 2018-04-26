@@ -1,0 +1,17 @@
+0
+Hi
+1
+Hello, Hi
+2
+Hai, Hello, Hi
+3
+Hai
+Hello
+Hi
+Hello, Hi
+Hello
+1
+Symbol table underflow error
+0
+null
+null

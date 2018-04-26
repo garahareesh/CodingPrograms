@@ -1,0 +1,19 @@
+1
+17
+size
+insert Hi 2
+size
+insert Hello 1
+size
+insert Hai 3
+size
+floor Hai
+floor Helloo
+ceiling Hi
+deleteMin
+deleteMax
+size
+deleteMin
+size
+floor null
+ceiling null
